@@ -1,3 +1,4 @@
+
 {
   "name": "search-tab",
   "version": "0.0.0",
@@ -23,6 +24,10 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "yarn": "^1.22.19"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=10.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-beta.21"
